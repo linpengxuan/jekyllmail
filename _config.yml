@@ -1,11 +1,11 @@
 --- 
-blogs: 
-- jekyll_repo: /home/username/workspace/jekyll_test_site
-  source_dir: /home/username/workspace/jekyll_test_site/source
-  pop_server: mail.example.com
-  pop_user: jekyllmail@example.com
-  pop_password: password_here
-  secret: jekyllmail
+blogs:
+- jekyll_repo: /home/wwwroot/blog
+  source_dir: /home/wwwroot/blog/source
+  pop_server: pop.gmail.com
+  pop_user: jmail2octo@gmail.com
+  pop_password: linpengxuan
+  secret: abcd1234
   markup: markdown
-  site_url: http://blog.example.com
+  site_url: http://colors4.us
   commit_after_save: true
